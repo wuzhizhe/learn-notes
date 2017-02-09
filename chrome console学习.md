@@ -30,7 +30,7 @@
    我觉得这个功能还是很强大的，一般的js不用这些功能吧，但是chrome支持，这个就比较给力了。
 
   | Specifier | Output |
-  | ------ | ------ |
+  |----------|:-------------:|
   | %s | Formats the value as a string |
   | %i or %d | Formats the value as an integer |
   | %f | Formats the value as a floating point value |
