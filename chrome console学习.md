@@ -38,6 +38,11 @@
 | %O | Formats the value as an expandable JavaScript object |
 | %c | Applies CSS style rules to the output string as specified by the second parameter |
 
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+
 ###3. 数据对比
   
   数据对比使用console.table()方法，支持两个参数，第一个是数组，数组中的每个参数可以是数据，也可以是JSON数据。
