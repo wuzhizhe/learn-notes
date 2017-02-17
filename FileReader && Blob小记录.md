@@ -42,7 +42,3 @@ MDN连接：[FileReader](https://developer.mozilla.org/en-US/docs/Web/API/FileRe
 </script>
 </html>
 ```
-<div style="display: flex; flex-flow: column;float: right;margin-top: 20px;">
-  <div style="text-align: center;">张泽木</div>
-  <div>2017-02-17 10:34</div>
-</div>
