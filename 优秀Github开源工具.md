@@ -29,3 +29,10 @@ webapp客户端上使用它来保存文件，真的是比较方便，有demo展�
 > RonCoo AdminLTE --是一个完全响应式的免费开源后台管理模板。基于 AdminLTE 框架（后续会随着版本更新而更新）;使用jQuery 2.2.3版本，并引入很多优秀的第三方jQuery插件，开发者也可以改用自己熟悉的第三方插件,易于使用，并高度可定制，适合许多屏幕分辨率从小型移动设备到大型台式机，这是国内的开源模板未支持的。
 
 <div style="float:right">2017-02-20日更新</div>
+
+
+#### 5. [新同文堂](https://github.com/softcup/New-Tongwentang-for-Chrome)
+
+这个是一款chrome插件，用来进行简体繁体转换的工具： [chrome商店地址](https://chrome.google.com/webstore/detail/new-tong-wen-tang/ldmgbgaoglmaiblpnphffibpbfchjaeg)
+
+Github上没有readme，哈哈，就是一款简繁体转换工具，支持直接网页转换，对于动态加载的数据可以使用右键菜单进行转换。
